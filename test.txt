@@ -1,4 +1,4 @@
 test
 
-learning python is funny
-learning python is funny
+learning java is funny
+learning java is funny
