@@ -1,9 +1,3 @@
 test
 
-<<<<<<< HEAD
 learning java is funny
-=======
-learning python is funny
-learning python is funny
-learning python is funny
->>>>>>> 9ac952bd0397fa0cb4e40804f0be42f21c5e9b15
